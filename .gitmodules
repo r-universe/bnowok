@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "synthpop"]
+	path = synthpop
+	url = https://github.com/bnowok/synthpop
+	shallow = true
+	registered = true
